@@ -1,0 +1,44 @@
+STORA — Gestionnaire de stock professionnel
+Copyright (C) 2026 IDRISS EL-HIMER. Tous droits réservés.
+
+*** LOGICIEL LIBRE, GRATUIT ET OUVERT ***
+
+STORA est un logiciel libre et gratuit, mis à disposition de tout le monde
+sans frais.
+
+IMPORTANT — NE PAS ACHETER
+Ce logiciel est offert gratuitement. Si une personne ou un revendeur vous
+demande de l'argent pour obtenir, installer ou utiliser STORA, refusez et
+ne payez pas. Signalez toute tentative de vente au développeur.
+
+INTERDICTION DE VENTE
+La vente, la revente, la location, ou toute commercialisation de STORA, en
+totalité ou en partie, avec ou sans modification, est strictement INTERDITE
+sans autorisation écrite préalable du développeur.
+
+DROITS ACCORDÉS
+Vous êtes autorisé à :
+  • utiliser STORA gratuitement, à titre personnel ou professionnel ;
+  • copier et redistribuer STORA gratuitement, à condition de ne pas le
+    vendre et de conserver le présent avis ;
+  • modifier le logiciel pour votre propre usage, sous réserve de respecter
+    les présentes conditions.
+
+REDISTRIBUTION GRATUITE
+Toute redistribution de STORA doit rester entièrement gratuite pour
+l'utilisateur final. Il est interdit d'ajouter des frais d'installation, de
+licence, de support ou tout autre coût dissimulé.
+
+ABSENCE DE GARANTIE
+STORA est fourni « en l'état », sans garantie d'aucune sorte, expresse ou
+implicite. Le développeur ne saurait être tenu responsable des dommages
+directs ou indirects résultant de l'utilisation ou de l'impossibilité
+d'utiliser ce logiciel.
+
+CONTACT
+Développeur : IDRISS EL-HIMER
+Tél / WhatsApp : +213799894569
+Site web : www.draysmelodica.com
+
+En installant STORA, vous reconnaissez avoir lu et accepté les conditions
+ci-dessus.
